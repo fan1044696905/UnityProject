@@ -1,0 +1,11 @@
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\FanPhotonServer.exe.config
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\FanPhotonServer.exe
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\FanPhotonServer.pdb
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\Iesi.Collections.dll
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\MySql.Data.dll
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\NHibernate.dll
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\Iesi.Collections.xml
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug\NHibernate.xml
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\obj\Debug\利用NHibernate连接数据库.csprojResolveAssemblyReference.cache
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\obj\Debug\FanPhotonServer.exe
+E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\obj\Debug\FanPhotonServer.pdb
