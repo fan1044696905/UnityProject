@@ -4,3 +4,6 @@ E:\Project\VS2013 Project\PhotonServer\CSharp直接连接数据库\bin\Debug\CSh
 E:\Project\VS2013 Project\PhotonServer\CSharp直接连接数据库\obj\Debug\CSharp直接连接数据库.csprojResolveAssemblyReference.cache
 E:\Project\VS2013 Project\PhotonServer\CSharp直接连接数据库\obj\Debug\CSharp直接连接数据库.exe
 E:\Project\VS2013 Project\PhotonServer\CSharp直接连接数据库\obj\Debug\CSharp直接连接数据库.pdb
+H:\Git\PhotonServer\CSharp直接连接数据库\bin\Debug\CSharp直接连接数据库.exe.config
+H:\Git\PhotonServer\CSharp直接连接数据库\obj\Debug\CSharp直接连接数据库.exe
+H:\Git\PhotonServer\CSharp直接连接数据库\obj\Debug\CSharp直接连接数据库.pdb

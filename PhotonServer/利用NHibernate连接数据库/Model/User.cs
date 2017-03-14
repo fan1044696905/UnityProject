@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace FanPhotonServer.Model
 {
+    /// <summary>
+    /// 用户类
+    /// </summary>
     class User
     {
         public virtual int Id { get; set; }
