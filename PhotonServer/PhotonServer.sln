@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp直接连接数据库
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "利用NHibernate连接数据库", "利用NHibernate连接数据库\利用NHibernate连接数据库.csproj", "{4E052493-A161-4279-8A76-33E4ABCDC506}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGameServer", "MyGameServer\MyGameServer.csproj", "{9A6D25C1-93F7-4E74-A9BD-225FC3976DBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4E052493-A161-4279-8A76-33E4ABCDC506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E052493-A161-4279-8A76-33E4ABCDC506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E052493-A161-4279-8A76-33E4ABCDC506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6D25C1-93F7-4E74-A9BD-225FC3976DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6D25C1-93F7-4E74-A9BD-225FC3976DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6D25C1-93F7-4E74-A9BD-225FC3976DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6D25C1-93F7-4E74-A9BD-225FC3976DBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

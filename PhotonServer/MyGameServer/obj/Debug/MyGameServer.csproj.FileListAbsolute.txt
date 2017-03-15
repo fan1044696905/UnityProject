@@ -1,0 +1,7 @@
+H:\Git\PhotonServer\MyGameServer\bin\Debug\MyGameServer.dll
+H:\Git\PhotonServer\MyGameServer\bin\Debug\MyGameServer.pdb
+H:\Git\PhotonServer\MyGameServer\obj\Debug\MyGameServer.dll
+H:\Git\PhotonServer\MyGameServer\obj\Debug\MyGameServer.pdb
+E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
