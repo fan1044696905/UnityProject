@@ -9,3 +9,15 @@ E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\bin\Debug
 E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\obj\Debug\利用NHibernate连接数据库.csprojResolveAssemblyReference.cache
 E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\obj\Debug\FanPhotonServer.exe
 E:\Project\VS2013 Project\PhotonServer\利用NHibernate连接数据库\obj\Debug\FanPhotonServer.pdb
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\FanPhotonServer.exe.config
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\FanPhotonServer.exe
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\FanPhotonServer.pdb
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\Iesi.Collections.dll
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\MySql.Data.dll
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\NHibernate.dll
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\Iesi.Collections.xml
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\NHibernate.xml
+H:\Git\PhotonServer\利用NHibernate连接数据库\obj\Debug\利用NHibernate连接数据库.csprojResolveAssemblyReference.cache
+H:\Git\PhotonServer\利用NHibernate连接数据库\obj\Debug\FanPhotonServer.exe
+H:\Git\PhotonServer\利用NHibernate连接数据库\obj\Debug\FanPhotonServer.pdb
+H:\Git\PhotonServer\利用NHibernate连接数据库\bin\Debug\hibernate.cfg.xml

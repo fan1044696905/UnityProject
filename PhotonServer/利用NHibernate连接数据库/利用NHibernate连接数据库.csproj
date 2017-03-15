@@ -51,7 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Manager\IUserManager.cs" />
+    <Compile Include="Manager\UserManager.cs" />
     <Compile Include="Model\User.cs" />
+    <Compile Include="NHibernateHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -60,9 +63,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Mapping\User.hbm.xml" />
-    <Content Include="nhibernate.cfg.xml">
+    <EmbeddedResource Include="Mappings\User.hbm.xml" />
+    <Content Include="hibernate.cfg.xml">
       <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <ItemGroup />
