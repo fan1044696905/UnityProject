@@ -1,0 +1,5 @@
+H:\Git\PhotonServer\Common\bin\Debug\Common.dll
+H:\Git\PhotonServer\Common\bin\Debug\Common.pdb
+H:\Git\PhotonServer\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+H:\Git\PhotonServer\Common\obj\Debug\Common.dll
+H:\Git\PhotonServer\Common\obj\Debug\Common.pdb

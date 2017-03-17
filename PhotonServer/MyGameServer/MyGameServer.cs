@@ -8,6 +8,7 @@ using ExitGames.Logging;
 using System.IO;
 using ExitGames.Logging.Log4Net;
 using log4net.Config;
+using MyGameServer.Manager;
 
 namespace MyGameServer
 {
@@ -17,12 +18,13 @@ namespace MyGameServer
     public class MyGameServer:ApplicationBase
     {
         //定义一个日志对象用来输出日志
-        private static readonly ILogger log = LogManager.GetCurrentClassLogger();
+        public static readonly ILogger log = LogManager.GetCurrentClassLogger();
 
         //当一个客户端请求连接
         //使用peerbase 表示和一个客户端的连接
         protected override PeerBase CreatePeer(InitRequest initRequest)
         {
+            log.Info("有客户端连接进来了。。。");
             return new ClientPeer(initRequest);
         }
 
@@ -40,6 +42,17 @@ namespace MyGameServer
             }
             log.Info("Setup Completed!!!");
             log.Info("王容发吃屎！！！！");
+
+            IUserManager userManager = new UserManager();
+            try
+            {
+                log.Info(userManager.VerifyUser("书大", "luanshi"));
+                log.Info(userManager.VerifyUser("书大", "shuda"));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
         }
 
         //Server端关闭的时候

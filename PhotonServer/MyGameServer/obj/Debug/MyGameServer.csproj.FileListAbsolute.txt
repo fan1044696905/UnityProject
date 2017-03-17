@@ -5,3 +5,6 @@ H:\Git\PhotonServer\MyGameServer\obj\Debug\MyGameServer.pdb
 E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
 E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
 E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\hibernate.cfg.xml
+H:\Git\PhotonServer\MyGameServer\obj\Debug\MyGameServer.csprojResolveAssemblyReference.cache
+E:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll.config
